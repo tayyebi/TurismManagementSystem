@@ -1,0 +1,202 @@
+﻿COUNTRY	CITY
+Croatia	Zagreb
+Armenia	Yerevan
+Nauru	Yaren District (de facto)
+Cameroon	Yaounde
+Cote d'Ivoire	Yamoussoukro
+Namibia	Windhoek
+New Zealand	Wellington
+United States of America	Washington, D.C.
+Poland	Warsaw
+Lithuania	Vilnius
+Laos	Vientiane
+Austria	Vienna
+Seychelles	Victoria
+Vatican City (Holy See)	Vatican City
+Malta	Valletta
+Liechtenstein	Vaduz
+Mongolia	Ulaanbaatar
+Tunisia	Tunis
+Libya	Tripoli
+Japan	Tokyo
+Albania	Tirana
+Bhutan	Thimphu
+Iran	Tehran
+Honduras	Tegucigalpa
+Georgia	Tbilisi
+Uzbekistan	Tashkent
+Kiribati	Tarawa
+Estonia	Tallinn
+Taiwan	Taipei
+Fiji	Suva
+Bolivia	Sucre (de jure), 
+Sweden	Stockholm
+Sri Lanka	Sri Jayawardenepura Kotte
+Bulgaria	Sofia
+Macedonia (FYROM)	Skopje
+Singapore	Singapore
+South Korea	Seoul
+Bosnia and Herzegovina	Sarajevo
+Sao Tome and Principe	São Tomé
+Dominican Republic	Santo Domingo
+Chile	Santiago
+Yemen	Sana'a
+El Salvador	San Salvador
+San Marino	San Marino
+Costa Rica	San Jose
+Antigua and Barbuda	Saint John's
+Grenada	Saint George's
+Dominica	Roseau
+Italy	Rome
+Saudi Arabia	Riyadh
+Latvia	Riga
+Iceland	Reykjavik
+Morocco	Rabat
+Ecuador	Quito
+North Korea	Pyongyang
+Kosovo	Pristina
+South Africa	Pretoria (administrative), 
+Cabo Verde	Praia
+Czech Republic	Prague
+Benin	Porto-Novo
+Haiti	Port-au-Prince
+Vanuatu	Port Vila
+Trinidad and Tobago	Port of Spain
+Papua New Guinea	Port Moresby
+Mauritius	Port Louis
+Montenegro	Podgorica
+Cambodia	Phnom Penh
+France	Paris
+Suriname	Paramaribo
+Panama	Panama City
+Micronesia	Palikir
+	Oyala (seat of government)
+Burkina Faso	Ouagadougou
+Canada	Ottawa
+Norway	Oslo
+Tonga	Nukuʻalofa
+Mauritania	Nouakchott
+Cyprus	Nicosia
+Niger	Niamey
+Palau	Ngerulmud
+India	New Delhi
+Chad	N'Djamena
+Myanmar (Burma)	Naypyidaw
+Bahamas	Nassau
+Kenya	Nairobi
+Oman	Muscat
+Russia	Moscow
+Comoros	Moroni
+Uruguay	Montevideo
+Liberia	Monrovia
+Monaco	Monaco
+Somalia	Mogadishu
+Belarus	Minsk
+Mexico	Mexico City
+Swaziland	Mbabane (administrative), 
+Lesotho	Maseru
+Mozambique	Maputo
+Philippines	Manila
+Bahrain	Manama
+Nicaragua	Managua
+Maldives	Male
+Equatorial Guinea	Malabo (de jure), 
+Marshall Islands	Majuro
+Spain	Madrid
+Luxembourg	Luxembourg (city)
+Zambia	Lusaka
+Angola	Luanda
+United Kingdom	London
+Togo	Lomé
+	Lobamba (legislative, royal)
+Slovenia	Ljubljana
+Portugal	Lisbon
+Peru	Lima
+Malawi	Lilongwe
+Gabon	Libreville
+	La Paz (seat of government)
+Ukraine	Kyiv (also known as Kiev)
+Kuwait	Kuwait City
+Malaysia	Kuala Lumpur
+Democratic Republic of theCongo	Kinshasa
+Saint Vincent and the Grenadines	Kingstown
+Jamaica	Kingston
+Rwanda	Kigali
+Sudan	Khartoum
+Nepal	Kathmandu
+Uganda	Kampala
+Afghanistan	Kabul
+South Sudan	Juba
+Palestine	Jerusalem (East)
+Israel	Jerusalem
+Indonesia	Jakarta
+Pakistan	Islamabad
+Solomon Islands	Honiara
+Finland	Helsinki
+Cuba	Havana
+Zimbabwe	Harare
+Vietnam	Hanoi
+Guatemala	Guatemala City
+Guyana	Georgetown
+Botswana	Gaborone
+Tuvalu	Funafuti
+Sierra Leone	Freetown
+Tajikistan	Dushanbe
+Ireland	Dublin
+Qatar	Doha
+Tanzania	Dodoma
+Djibouti	Djibouti (city)
+Timor-Leste	Dili
+Bangladesh	Dhaka
+Syria	Damascus
+Senegal	Dakar
+Denmark	Copenhagen
+Guinea	Conakry
+Moldova	Chisinau
+Saint Lucia	Castries
+Venezuela	Caracas
+	Cape Town (legislative), 
+Australia	Canberra
+Egypt	Cairo
+Burundi	Bujumbura
+Argentina	Buenos Aires
+Hungary	Budapest
+Romania	Bucharest
+Belgium	Brussels
+Barbados	Bridgetown
+Republic of the Congo	Brazzaville
+Slovakia	Bratislava
+Brazil	Brasilia
+Colombia	Bogotá
+Guinea-Bissau	Bissau
+Kyrgyzstan	Bishkek
+Switzerland	Bern
+Germany	Berlin
+Belize	Belmopan
+Serbia	Belgrade
+Lebanon	Beirut
+China	Beijing
+Saint Kitts and Nevis	Basseterre
+Gambia	Banjul
+Central African Republic	Bangui
+Thailand	Bangkok
+Brunei	Bandar Seri Begawan
+Mali	Bamako
+Azerbaijan	Baku
+Iraq	Baghdad
+Greece	Athens
+Paraguay	Asunción
+Kazakhstan	Astana
+Eritrea	Asmara
+Turkmenistan	Ashgabat
+Samoa	Apia
+Madagascar	Antananarivo
+Turkey	Ankara
+Andorra	Andorra la Vella
+Netherlands	Amsterdam
+Jordan	Amman
+Algeria	Algiers
+Ethiopia	Addis Ababa
+Ghana	Accra
+Nigeria	Abuja
+United Arab Emirates	Abu Dhabi
